@@ -1,4 +1,4 @@
-package uniderp.poo.escola.dominio;
+ package uniderp.poo.escola.dominio;
 
 
 import java.time.LocalDate;
